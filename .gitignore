@@ -70,3 +70,4 @@ buck-out/
 
 # Java Heapmap
 *.hprof
+cache/
