@@ -108,6 +108,7 @@
     "babel-plugin-module-resolver": "^4.0.0",
     "detox": "^18.9.0",
     "eslint": "^7.21.0",
+    "eslint-plugin-jest": "^24.3.2",
     "eslint-plugin-prettier": "^3.3.1",
     "hoist-non-react-statics": "^3.3.2",
     "husky": "^5.1.2",

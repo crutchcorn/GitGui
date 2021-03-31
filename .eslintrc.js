@@ -7,7 +7,7 @@ module.exports = {
     'plugin:prettier/recommended',
   ],
   parser: '@typescript-eslint/parser',
-  plugins: ['prettier'],
+  plugins: ['prettier', 'jest'],
   rules: {
     'no-extra-boolean-cast': 'off',
     '@typescript-eslint/no-use-before-define': 'off',
