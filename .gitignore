@@ -60,6 +60,8 @@ buck-out/
 # Bundle artifact
 *.jsbundle
 
+*.log
+
 # CocoaPods
 /ios/Pods/
 /storybook-static

@@ -1,3 +1,14 @@
+
+## Android Setup
+
+In order to run e2e Detox tests on Android, you'll need to install an AOSP image of Android.
+
+Currently, the latest version of Android that has an official AOSP build is API 29.
+
+We're using Pixel 3a frame/device defaults.
+
+The emulator must also be called `Pixel_3a_API_29`
+
 ## iOS Setup
 
 In order to deploy to iOS, you'll need to install:

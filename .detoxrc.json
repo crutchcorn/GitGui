@@ -27,9 +27,9 @@
     "emulator": {
       "type": "android.emulator",
       "device": {
-        "avdName": "Pixel_3a_API_30_x86"
+        "avdName": "Pixel_3a_API_29"
       },
-      "utilBinaryPaths": ["relative/path/to/test-butler-app-2.1.0.apk"]
+      "utilBinaryPaths": ["cache/test-butler-app.apk"]
     }
   },
   "configurations": {
