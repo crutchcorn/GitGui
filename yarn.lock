@@ -10404,9 +10404,9 @@ isomorphic-fetch@^2.1.1:
     node-fetch "^1.0.1"
     whatwg-fetch ">=0.10.0"
 
-"isomorphic-git@https://github.com/crutchcorn/isomorphic-git#build":
+"isomorphic-git@https://github.com/oceanbit/isomorphic-git#build":
   version "0.0.0-development"
-  resolved "https://github.com/crutchcorn/isomorphic-git#660f8344433abbf007571328b0b76c33e31c951a"
+  resolved "https://github.com/oceanbit/isomorphic-git#660f8344433abbf007571328b0b76c33e31c951a"
   dependencies:
     async-lock "^1.1.0"
     clean-git-ref "^2.0.1"
@@ -13774,10 +13774,10 @@ react-native-get-random-values@^1.5.1:
   dependencies:
     fast-base64-decode "^1.0.0"
 
-react-native-immersive-bars@^1.0.0:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-immersive-bars/-/react-native-immersive-bars-1.0.1.tgz#b1eed106daf1df72543adc3e61ff02093141b4c3"
-  integrity sha512-b1chpqUX64Vz49rutDsLkbEE/v00YCHd6w7ur0CEr3fKCit3CwclnH1oNkPVVurkmwlOPLpbHfJUYdYAEgWyPw==
+react-native-immersive-bars@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-immersive-bars/-/react-native-immersive-bars-1.0.2.tgz#d18d9c3c3e38bc5e1482ffbc1644dae97455eb7e"
+  integrity sha512-E7qzzudMzoZJ3e10OWgmmMOW4xFLof8SNrMN50b+jGL6QPJ9I2OJgNqOxs6Bt+ZtgMwAEH9THkCrEcT+GtMyzA==
 
 react-native-iphone-x-helper@^1.3.0, react-native-iphone-x-helper@^1.3.1:
   version "1.3.1"

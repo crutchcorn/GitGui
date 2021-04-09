@@ -54,7 +54,7 @@
     "react-native-fs": "https://github.com/oceanbit/react-native-fs.git#all-commands",
     "react-native-gesture-handler": "^1.9.0",
     "react-native-get-random-values": "^1.5.1",
-    "react-native-immersive-bars": "^1.0.0",
+    "react-native-immersive-bars": "^1.0.2",
     "react-native-linear-gradient": "^2.5.6",
     "react-native-localize": "^2.0.1",
     "react-native-paper": "^4.7.1",
