@@ -1,3 +1,8 @@
+## Windows Notes
+
+If you're running on Windows and attempt to run `npm run test:android` or some other build commands, you will get an error
+because `&&` is not valid in PowerShell/CMD. To run this properly in those environments, you need
+to use `yarn test:android` instead
 
 ## Android Setup
 

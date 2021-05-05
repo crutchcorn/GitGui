@@ -6,8 +6,13 @@ module.exports = {
     'prettier/@typescript-eslint',
     'plugin:prettier/recommended',
   ],
+  env: {
+    jest: true,
+    'detox/detox': true,
+    'jest/globals': true,
+  },
   parser: '@typescript-eslint/parser',
-  plugins: ['prettier', 'jest'],
+  plugins: ['prettier', 'jest', 'detox'],
   rules: {
     'no-extra-boolean-cast': 'off',
     '@typescript-eslint/no-use-before-define': 'off',

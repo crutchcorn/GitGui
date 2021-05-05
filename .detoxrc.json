@@ -6,11 +6,6 @@
       "type": "ios.app",
       "binaryPath": "SPECIFY_PATH_TO_YOUR_APP_BINARY"
     },
-    "android.debug": {
-      "type": "android.apk",
-      "binaryPath": "android/app/build/outputs/apk/debug/app-debug.apk",
-      "build": "cd android && ./gradlew assembleDebug assembleAndroidTest -DtestBuildType=debug && cd .."
-    },
     "android.release": {
       "type": "android.apk",
       "binaryPath": "android/app/build/outputs/apk/release/app-release.apk",
@@ -36,10 +31,6 @@
     "ios": {
       "device": "simulator",
       "app": "ios"
-    },
-    "android.emu.debug": {
-      "device": "emulator",
-      "app": "android.debug"
     },
     "android.emu.release": {
       "device": "emulator",
