@@ -132,5 +132,8 @@
     "*.{ts,tsx,js,jsx}": [
       "npm run format"
     ]
+  },
+  "detox": {
+    "extends": "./e2e/detox.config"
   }
 }

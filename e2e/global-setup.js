@@ -6,7 +6,7 @@ const {execSync} = require('child_process');
 const argparse = require('detox/src/utils/argparse');
 
 function resolveSelectedConfiguration() {
-  const rawConfig = require('../.detoxrc.json');
+  const rawConfig = require('./detox.config');
   const configName = argparse.getArgValue('configuration');
   return rawConfig.configurations[configName];
 }
