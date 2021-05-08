@@ -13826,9 +13826,10 @@ react-native-reanimated@^1.13.2:
   dependencies:
     fbjs "^1.0.0"
 
-"react-native-responsive-ui@https://github.com/oceanbit/react-native-responsive-ui.git#build":
-  version "2.1.1"
-  resolved "https://github.com/oceanbit/react-native-responsive-ui.git#2424ffe5690d67c13ac0e58e3ed2072653ffdee0"
+react-native-responsive-ui@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/react-native-responsive-ui/-/react-native-responsive-ui-2.1.2.tgz#70c346560514850774c765c471e8193dd0c81319"
+  integrity sha512-B8e32/Tq+DcaatxCwj4z/cCJTgQ4jSge9GkWi21Qe4z3gFh9EV1ha8ElKjYH5k9nECfuec7WjmBrT83Qh/W61Q==
   dependencies:
     lodash "^4.17.11"
 
