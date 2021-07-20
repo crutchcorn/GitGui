@@ -46,7 +46,7 @@
     "react-content-loader": "^6.0.1",
     "react-dom": "^17.0.1",
     "react-i18next": "^11.8.5",
-    "react-native": "0.64.0",
+    "react-native": "0.64.1",
     "react-native-button-toggle-group": "^1.1.1",
     "react-native-default-preference": "^1.4.2",
     "react-native-dynamic": "^1.0.0",
